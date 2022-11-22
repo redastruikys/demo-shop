@@ -1,0 +1,3 @@
+#services:
+#  App\Services\Shop\ProductBuilder:
+#    public: true
